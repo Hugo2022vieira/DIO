@@ -25,7 +25,7 @@
 
 ## 🌐 Onde me encontrar
 
-- [LinkedIn](www.linkedin.com/in/hugosvieira)
+- [LinkedIn](www.linkedin.com/in/hugosvieira/)
 - [Perfil na DIO](https://www.dio.me/users/hugo6_ms)
 
 ---
